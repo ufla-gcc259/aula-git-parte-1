@@ -24,4 +24,4 @@ Links úteis:
 * [Campus Virtual](https://campusvirtual.ufla.br/site_campus/)
 * [UFLA](https://ufla.br/)
 
-![open-source](https://cdn.pixabay.com/photo/2022/05/09/16/15/open-source-7184836_1280.jpg)
+![open-source](imagem.jpg)
