@@ -2,7 +2,7 @@ Meu Primeiro Repositório
 ====
 Este é o meu **primeiro repositório** no Github.
 
-Eis um trecho de código em Java:
+Eis um trecho de código escrito em Java:
 
 ```Java
 System.out.println("Olá mundo!")
