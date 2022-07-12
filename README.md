@@ -5,7 +5,7 @@ Este é o meu **primeiro repositório** no Github.
 Eis um trecho de código em Java:
 
 ```Java
-System.out.println("olá mundo!")
+System.out.println("Olá mundo!")
 ```
 
 Como diria o filósofo:
