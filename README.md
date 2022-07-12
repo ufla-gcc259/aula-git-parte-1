@@ -17,6 +17,7 @@ Na disciplina *GCC259 - Desenvolvimento de Software Livre*, eu irei aprender mai
 1. A história do Software Livre
 2. Licenciamento de Software
 3. Modelos de negócio com Software Livre
+4. Dentre outros assuntos...
 
 Links úteis:
 
