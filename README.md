@@ -24,3 +24,4 @@ Links úteis:
 * [Campus virtual](https://campusvirtual.ufla.br)
 * [UFLA](https://ufla.br "Universidade Federal de Lavras")
 
+![Logo do Linux](linux.jpg "Um exemplo de logo do Linux")
